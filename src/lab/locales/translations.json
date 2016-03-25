@@ -1297,7 +1297,7 @@
         },
         "names": {
           "sensor": "čidlo",
-          "no_sensor": "(bez čidla)",
+          "no_sensor": "(žádné čidlo)",
           "light": "Světlo",
           "motion": "Pohyb",
           "accelerometer": "Akcelerometer (čidlo zrychlení)",
